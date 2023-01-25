@@ -1,0 +1,3 @@
+/workspaces/zmq-blackjack-dealer/backend/build/CMakeFiles/backend.dir
+/workspaces/zmq-blackjack-dealer/backend/build/CMakeFiles/edit_cache.dir
+/workspaces/zmq-blackjack-dealer/backend/build/CMakeFiles/rebuild_cache.dir
